@@ -28,9 +28,9 @@ Aspiring Full-Stack Developer • MERN Stack Learner • DSA Enthusiast
 <img src="https://skillicons.dev/icons?i=css" height="50"/>
 <img src="https://skillicons.dev/icons?i=js" height="50"/>
 <img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<!-- <img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
 <img src="https://skillicons.dev/icons?i=express" height="50"/>
-<img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="50"/> -->
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
