@@ -83,7 +83,7 @@ A collection of beginner-to-intermediate JavaScript projects for practicing DOM 
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=adarsh-seth&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -93,7 +93,7 @@ A collection of beginner-to-intermediate JavaScript projects for practicing DOM 
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-seth&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
