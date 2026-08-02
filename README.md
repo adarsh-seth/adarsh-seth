@@ -79,10 +79,6 @@ A collection of beginner-to-intermediate JavaScript projects for practicing DOM 
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarsh-seth)
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
