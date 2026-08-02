@@ -79,16 +79,6 @@ A collection of beginner-to-intermediate JavaScript projects for practicing DOM 
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=adarsh-seth&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -102,7 +92,7 @@ A collection of beginner-to-intermediate JavaScript projects for practicing DOM 
 ## 🎯 2026 Goals
 
 - 🚀 Master the MERN Stack
-- 📚 Solve 500+ DSA Problems
+- 📚 Solve 100+ DSA Problems
 - 🏆 Participate in Major Hackathons
 - 🌍 Contribute to Open Source
 - 💼 Secure a Software Engineering Internship
@@ -111,9 +101,8 @@ A collection of beginner-to-intermediate JavaScript projects for practicing DOM 
 
 ## 🌐 Connect With Me
 
-🌍 Portfolio: https://your-portfolio-link.com
+🌍 Portfolio: https://adarsh-seth-portfolio.vercel.app/
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://linkedin.com/in/adarsh-seth
 
-📧 Email: your-email@example.com
-```
+📧 Email: adarshseth999@gmail.com
