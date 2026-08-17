@@ -78,6 +78,7 @@ A collection of modern and responsive UI designs built to improve frontend devel
 A collection of beginner-to-intermediate JavaScript projects for practicing DOM manipulation, events, and API integration.
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adarsh-seth)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph
 
