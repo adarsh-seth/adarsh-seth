@@ -81,9 +81,7 @@ A collection of beginner-to-intermediate JavaScript projects for practicing DOM 
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=adarsh-seth&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com/?user=adarsh-seth&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 📈 Contribution Graph
