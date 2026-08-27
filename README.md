@@ -60,10 +60,7 @@ A modern and responsive personal portfolio showcasing my projects, skills, achie
 
 ---
 
-### 🎓 NIT Silchar Student Resource Hub *(In Progress)*
-A full-stack platform for first-year students providing notes, PYQs, syllabus, important contacts, and essential campus resources.
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
 
 ---
 
