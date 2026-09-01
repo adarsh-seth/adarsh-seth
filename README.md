@@ -137,7 +137,6 @@ A collection of JavaScript projects built while learning and practicing core con
 
 ## 🎯 2026 Goals
 
-* ⚛️ Strengthen my **React.js** skills
 * 🚀 Learn and build projects using the **MERN Stack**
 * 🌐 Build and deploy full-stack applications
 * 🧠 Solve **100+ DSA problems** and improve problem-solving skills
