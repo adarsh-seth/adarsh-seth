@@ -5,7 +5,7 @@ Electronics & Instrumentation Engineering Undergraduate @ NIT Silchar
 </h3>
 
 <p align="center">
-Frontend Developer • React Learner • Aspiring Full-Stack Developer • DSA Enthusiast
+Frontend Developer • Aspiring Full-Stack Developer • DSA Enthusiast
 </p>
 
 <p align="center">
